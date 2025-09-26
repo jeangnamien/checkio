@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "checkio"
 version = "0.1.0"
-description = ""
+description = "This project goal is to learn the best programming practices"
 authors = ["jeangnamien <jean.gnamien@master.centralelille.fr>"]
 readme = "README.md"
 
